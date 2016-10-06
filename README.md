@@ -1,1 +1,1 @@
-# software
+# This is for hadoop practices.
